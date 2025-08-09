@@ -7,7 +7,7 @@ feel free reach out to me at [jozheng@unc.edu](mailto:jozheng@unc.edu).
 
 ---
 
-## let's connect
+## let's connect!
 
 
 <a href="https://linkedin.com/in/josephzhengg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph zheng linkedin" height="30" width="40" /></a>
@@ -15,7 +15,7 @@ feel free reach out to me at [jozheng@unc.edu](mailto:jozheng@unc.edu).
 
 ---
 
-## tools i love
+## tools i loveee
 <div class="flex flex-wrap justify-center gap-4">
   <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="git" title="git"/>
   <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="html" title="html"/>
@@ -37,6 +37,6 @@ feel free reach out to me at [jozheng@unc.edu](mailto:jozheng@unc.edu).
 
 ---
 
-## currently building
+## currently building...
 <img width="30" src="https://raw.githubusercontent.com/josephzhengg/bittle/refs/heads/main/web/public/favicon.ico" alt="bittle" title="bittle"/> [**Bittle**](https://bittle.me) → web app designed to translate greek life big-littles into university social/cultural organizations. 
 
