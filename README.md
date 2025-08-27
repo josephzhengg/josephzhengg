@@ -15,7 +15,7 @@ feel free reach out to me at [jozheng@unc.edu](mailto:jozheng@unc.edu).
 
 ---
 
-## tools i loveee
+## tools i love!
 <div class="flex flex-wrap justify-center gap-4">
   <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="git" title="git"/>
   <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="html" title="html"/>
