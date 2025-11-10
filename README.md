@@ -38,5 +38,4 @@ feel free reach out to me at [jozheng@unc.edu](mailto:jozheng@unc.edu).
 ---
 
 ## currently building...
-<img width="30" src="https://raw.githubusercontent.com/josephzhengg/bittle/refs/heads/main/web/public/favicon.ico" alt="bittle" title="bittle"/> [**Bittle**](https://bittle.me) → web app designed to translate greek life big-littles into university social/cultural organizations. 
-
+more to come... 🤔
